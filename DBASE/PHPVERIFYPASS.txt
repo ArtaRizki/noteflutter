@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/32842118/verify-hashed-password-from-database
+https://stackoverflow.com/questions/35146205/password-is-not-verified-using-function-password-verify
+https://stackoverflow.com/questions/42252986/php-login-password-verify

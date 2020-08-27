@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/47065098/how-to-work-with-progress-indicator-in-flutter
+https://stackoverflow.com/questions/59507960/async-await-to-do-circularprogressindicator-in-a-login-page-in-flutter

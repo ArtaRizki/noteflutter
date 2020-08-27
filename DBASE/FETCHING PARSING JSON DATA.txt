@@ -1,0 +1,19 @@
+https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34
+https://stackoverflow.com/questions/60000834/how-to-show-data-on-listview-builder-from-http-post-request-result-flutter
+https://stackoverflow.com/questions/22289908/get-data-from-mysql-and-show-it-in-a-listview-using-json
+https://camposha.info/flutter-php-mysql-fill-listview-with-images-and-text/
+
+13 AUgust
+https://medium.com/nusanet/fundamental-parsing-json-in-flutter-4c7ffc58fb6f
+https://bezkoder.com/dart-flutter-parse-json-string-array-to-object-list/
+https://medium.com/@ekosuprastyo15/flutter-json-array-parse-of-objects-dbf36a7aa08d
+https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f51
+
+https://stackoverflow.com/questions/61443497/pssing-the-data-from-mysql-into-flutter-widget
+https://stackoverflow.com/questions/61065883/fetching-json-data-in-flutter-returns-null -----
+https://stackoverflow.com/questions/50706500/flutter-how-to-make-an-array-with-the-json-data
+https://stackoverflow.com/questions/52575602/how-to-go-on-about-receiving-json-array-in-flutter-and-parsing-it
+
+https://www.google.com/search?biw=1707&bih=855&sxsrf=ALeKk012ijkpC676kpuZr5fbo1nlujJCMw%3A1597301021623&ei=HeE0X5vZJdi5rQHqrrCIAg&q=get+data+from+sql+and+parse+it+to+json+flutter&oq=get+data+from+sql+and+parse+it+to+json+flutter&gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgATIECCEQFToECAAQRzoICCEQFhAdEB46BQghEKABULEmWIctYKktaABwAXgAgAHbA4gBiw6SAQcyLTEuMy4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjb2_j_yZfrAhXYXCsKHWoXDCEQ4dUDCAs&uact=5
+
+

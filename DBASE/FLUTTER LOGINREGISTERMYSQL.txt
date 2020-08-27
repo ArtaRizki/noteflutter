@@ -1,0 +1,6 @@
+https://www.google.com/search?biw=1707&bih=855&sxsrf=ALeKk001kpNfvc-BGYRgHXLTpY1zT77mYg%3A1596725709380&ei=zRksX8LkFqXZz7sPiNqTyA4&q=flutter+login+register+mysql+github&oq=flutter+login+register+mysql+github&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgAEEc6BggAEBYQHlCVhAxYhYsMYJ2MDGgAcAF4AIABzwKIAaMLkgEFMi0zLjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiC_9fl6obrAhWl7HMBHQjtBOk4ChDh1QMICw&uact=5
+https://github.com/MochIsrin068/flutter_login-register_mysql
+http://www.vetbossel.in/flutter-login-registration-form/
+https://flutter-examples.com/page/2/?s=edit+user+php+mysql
+https://flutter-examples.com/flutter-online-user-registration-using-php-mysql-server/
+https://flutter-examples.com/flutter-online-user-login-using-php-mysql-api/

@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/55865173/how-to-decode-json-string-as-utf-8
+https://stackoverflow.com/questions/61436934/flutter-convert-utf-8-characters-http-post

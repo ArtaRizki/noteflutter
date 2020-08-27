@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/54466639/json-decode-unexpected-end-of-input-at-character-1
+https://stackoverflow.com/questions/55367268/formatexception-unexpected-end-of-input-at-character-1
+
+https://stackoverflow.com/questions/62656875/flutterphp-i-cannot-post-to-mysql-database-from-my-flutter-app
+https://jsonlint.com/
+https://stackoverflow.com/questions/60465711/flutter-dart-json-exception
+https://stackoverflow.com/questions/52952717/json-decode-throws-formatexception-on-nested-double-quote-in-json-dart
+https://stackoverflow.com/questions/56248795/how-to-handle-http-errors-formatexception-unexpected-end-of-input-at-characte
