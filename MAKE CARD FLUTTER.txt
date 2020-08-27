@@ -1,0 +1,3 @@
+https://medium.com/@mayowaolunuga1/product-page-in-flutter-f9ca9e19896c
+https://morioh.com/p/91f0da5f6f24
+https://stackoverflow.com/questions/58115148/how-to-change-height-of-a-card-in-flutter

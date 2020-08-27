@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/51617597/icons-wont-show-up-correctly-flutter
+https://github.com/flutter/flutter/issues/23998

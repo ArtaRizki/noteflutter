@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/44841729/how-to-upload-image-in-flutter
+https://stackoverflow.com/questions/11511511/how-to-save-a-png-image-server-side-from-a-base64-data-string?answertab=oldest#tab-top

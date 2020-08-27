@@ -1,0 +1,4 @@
+https://medium.com/flutterpub/a-simple-search-bar-in-flutter-f99aed68f523
+https://medium.com/flutterpub/search-bar-in-flutter-5aedf2c86b44
+https://flutterawesome.com/flutter-app-bar-and-search-widget-integrated/
+https://blog.usejournal.com/flutter-search-in-listview-1ffa40956685

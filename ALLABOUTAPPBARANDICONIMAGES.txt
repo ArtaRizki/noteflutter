@@ -1,0 +1,8 @@
+ALL ABOUT APPBAR
+https://stackoverflow.com/questions/49983931/how-to-replace-title-with-image-in-appbar
+https://stackoverflow.com/questions/43981406/how-to-center-the-title-of-an-appbar
+https://medium.com/@RayLiVerified/create-a-rounded-image-icon-with-ripple-effect-in-flutter-eb0f4a720b90
+https://stackoverflow.com/questions/50192387/flutter-rounded-profile-image-appbar
+https://stackoverflow.com/questions/57941227/how-to-add-icon-to-appbar-in-flutter
+https://medium.com/flutterpub/playing-with-appbar-in-flutter-3a8abd9b982a
+https://stackoverflow.com/questions/49015038/removing-the-drop-shadow-from-a-scaffold-appbar-in-flutter

@@ -1,0 +1,27 @@
+https://www.google.com/search?biw=1707&bih=855&sxsrf=ALeKk01G8yyXrIQQdfH4AY6zQOlhbzahEA%3A1597009088985&ei=wGwwX4nZO8Tfz7sP58S8mAY&q=client+id+and+secret+google+drive&oq=client+secret+googled+d&gs_lcp=CgZwc3ktYWIQAxgAMggIABAWEB4QEzIICAAQFhAeEBMyCAgAEBYQHhATMgwIABAIEA0QChAeEBMyCggAEAgQDRAeEBM6BAgjECc6BQgAELEDOgUILhCxAzoECAAQQzoCCC46AggAOggIABCxAxCDAToECC4QQzoFCAAQywE6BAgAEA06BggAEA0QHjoGCAAQFhAeOggIABAWEAoQHjoICAAQDRAFEB46CAgAEAgQDRAeOgoIABAIEA0QChAeUOdSWIJ9YMWOAWgBcAB4AYABqwaIAe4fkgEMNC4xNi4xLjIuNi0xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab
+https://github.com/Keitri/flutterdrive/blob/master/lib/googleDrive.dart
+https://www.iperiusbackup.net/en/how-to-enable-google-drive-api-and-get-client-credentials/
+https://stackoverflow.com/questions/49643460/dart-flutter-download-or-read-the-contents-of-a-google-drive-file
+
+PASS VARIABLE INTO URL PHP AND OPEN DRIVE
+https://stackoverflow.com/questions/20930795/passing-variable-into-a-url/20930810
+
+ENKRIPSI URL PHP
+https://kursuswebprogramming.com/cara-enkripsi-url-parameter-pada-php/
+
+HOW TO WRITE GOGLE DIRECTORY IN AN IFRAME
+https://stackoverflow.com/questions/20681974/how-to-embed-a-google-drive-folder-in-a-website
+
+SIGN IN DULU
+https://www.c-sharpcorner.com/article/google-drive-integration-in-flutter-upload-download-list-files/
+https://engineering.nodesagency.com/categories/android/ios/2019/08/21/flutter-google-docs
+https://github.com/nodes-android/google-docs-viewer-flutter
+https://stackoverflow.com/questions/48477625/how-to-use-google-api-in-flutter/48485898#48485898
+
+SUPPORTED PACKAGE
+https://pub.dev/packages/device_apps/example
+https://stackoverflow.com/questions/55771211/can-any-one-tell-me-how-to-open-another-app-using-flutter
+https://pub.dev/packages/flutter_appavailability
+
+TUTORIAL
+https://campussuite.freshdesk.com/support/solutions/articles/5000708376-google-drive-embed

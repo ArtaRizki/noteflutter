@@ -1,0 +1,1 @@
+https://flutter-examples.com/flutter-call-a-function-automatically-when-app-starts-everytime/

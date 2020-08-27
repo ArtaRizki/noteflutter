@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/54244820/how-to-make-a-small-rounded-rectangle-in-flutter
+https://stackoverflow.com/questions/51513429/rounded-corners-image-in-flutter
+https://stackoverflow.com/questions/59315818/how-to-make-flutter-listview-with-border-radius-like-a-picture

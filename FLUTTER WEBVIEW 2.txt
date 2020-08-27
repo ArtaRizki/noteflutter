@@ -1,0 +1,12 @@
+FLUTTER WEBVIEW PLUGIN
+https://medium.com/flutter-community/creating-a-full-featured-browser-using-webviews-in-flutter-9c8f2923c574
+https://stackoverflow.com/questions/62113082/flutter-how-to-fit-the-web-view-size-to-screen
+https://github.com/pichillilorenzo/flutter_inappwebview
+https://pub.dev/packages/flutter_webview_plugin/example
+https://www.kucingtekno.com/2019/09/tutorial-membuat-webview-di-flutter.html
+
+https://www.google.com/search?sxsrf=ALeKk00f9Bnvyen6CSmlH_SFdImQr272VA%3A1597719739664&ei=u0Q7X-SjKNiR9QOY3pSABg&q=webview+flutter+user+agent&oq=webview+flutter+useragent&gs_lcp=CgZwc3ktYWIQAxgAMgcIABAKEMsBMggIABAWEAoQHjoECAAQRzoFCAAQywE6BggAEBYQHlDO8w9YwvwPYOuHEGgAcAJ4AIAB_wWIAZ4SkgEJMi0yLjUtMi4xmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab
+
+WEBVIEW
+https://stackoverflow.com/questions/54102162/how-to-use-user-agent-in-webview-flutter-flutter
+https://stackoverflow.com/questions/14688030/setting-webview-to-view-desktop-site-and-not-mobile-site

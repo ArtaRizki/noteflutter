@@ -1,0 +1,3 @@
+https://medium.com/codeacademia/belajar-callback-promise-dan-async-await-dalam-5-menit-fa1564956ab0
+https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-4-async-await-fc504c344238
+https://medium.com/skyshidigital/promise-lets-async-await-76122d134eb

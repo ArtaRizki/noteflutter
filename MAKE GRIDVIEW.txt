@@ -1,0 +1,12 @@
+https://medium.com/nusanet/flutter-gridview-bad48c1f216c
+https://flutter.dev/docs/cookbook/lists/grid-lists
+https://www.codingtive.com/2019/05/tutorial-flutter-membuat-gridview.html
+
+https://stackoverflow.com/questions/56033728/flutter-gridview-with-header
+https://stackoverflow.com/questions/50903106/how-to-add-image-in-flutter
+https://stackoverflow.com/questions/52211283/inserting-image-into-a-container-flutter-app
+https://stackoverflow.com/questions/53036402/flutter-how-to-use-container-widget-with-image-and-text-icons-below-image
+
+CHANGE HEIGHT
+https://stackoverflow.com/questions/48405123/how-to-set-custom-height-for-widget-in-gridview-in-flutter
+https://stackoverflow.com/questions/53612200/flutter-how-to-give-height-to-the-childrens-of-gridview-builder/53615751

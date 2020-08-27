@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/53861302/passing-data-between-screens-in-flutter
+https://stackoverflow.com/questions/50702749/flutter-i-want-to-pass-variable-from-one-class-to-another
+https://stackoverflow.com/questions/48634922/passing-integer-through-multiple-statefulwidgets
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj01Lzo9trpAhUQb30KHaWeAc8QFjACegQIAxAB&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F60204360%2Fpassing-variables-between-two-classes-in-flutter&usg=AOvVaw0X4o3KUrjSnIKJRDwnjQQU
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj01Lzo9trpAhUQb30KHaWeAc8QFjADegQIBhAB&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F53659570%2Fhow-to-pass-parameters-to-widgets-in-flutter&usg=AOvVaw0pHAM7Gdz4FzOCdA2bYmSR
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj01Lzo9trpAhUQb30KHaWeAc8QFjAEegQIBBAB&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F58289995%2Fflutter-how-to-pass-value-to-state-class&usg=AOvVaw13Mn2sGrKHcfGaScqZ4Qm6

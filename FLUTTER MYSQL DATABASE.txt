@@ -1,0 +1,17 @@
+SQLite
+https://www.google.com/search?sxsrf=ALeKk013DAzdoO4pC8gs7MxkXOYjiQx33w%3A1595467308662&ei=LOYYX_KCKM3t9QOphJXYAg&q=flutter+with+sql
+https://stackoverflow.com/questions/51294893/how-to-connect-flutter-app-to-sql-server
+https://pub.dev/packages/sqflite
+https://groups.google.com/forum/#!topic/flutter-dev/GO9ilukcoN4
+
+MySQL
+https://www.google.com/search?sxsrf=ALeKk03bqft6JSbsZkJTLd2JMH5Ubqg_9w%3A1595467313411&ei=MeYYX-HaGNOFyAPX26a4Bw&q=flutter+with+mysql&oq=flutter+with+mysql&gs_lcp=CgZwc3ktYWIQAzIFCAAQywEyCAgAEAcQChAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoHCAAQRxCwAzoECAAQDToGCAAQBxAeOggIABANEAUQHjoICAAQCBANEB5Q5NMFWLfVBWCa1wVoAXAAeACAAZABiAGcApIBAzAuMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwiht93zmuLqAhXTAnIKHdetCXcQ4dUDCAs&uact=5
+https://medium.com/@dev_raushanjha/sendhow-to-send-data-from-flutter-app-to-mysql-database-8e79844fc234
+https://medium.com/flutter-developer-indonesia/tutorial-flutter-membuat-login-menggunakan-mysql-d6a08958b49e
+https://medium.com/@santosenoque.ss/how-to-connect-flutter-app-to-mysql-web-server-and-phpmyadmin-e100f47bfb82
+https://www.coderzheaven.com/2019/09/28/flutter-datatable-mysql/
+https://pub.dev/packages/mysql1/install
+https://www.eduprog.net/2019/10/membuat-form-login-dengan-flutter-dan-php-mysql.html
+https://medium.com/flutter-developer-indonesia/tutorial-flutter-membuat-login-menggunakan-mysql-d6a08958b49e
+https://flutter-examples.com/flutter-online-user-login-using-php-mysql-api/
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjbyZ7HpuLqAhXYXCsKHaIGCfkQFjARegQIBRAB&url=https%3A%2F%2Fgithub.com%2Fedicybereye%2Fflutter_tutorial_session_1&usg=AOvVaw3rE78e8XjBCNn52GsIlaSj

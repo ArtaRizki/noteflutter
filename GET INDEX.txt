@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/47085070/how-to-get-the-index-key-of-the-selected-item-in-the-list-flutter
+https://stackoverflow.com/questions/56340460/flutter-how-to-do-for-inside-for-loop-with-list-widget

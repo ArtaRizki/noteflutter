@@ -1,0 +1,3 @@
+https://medium.com/@superman199323/select-multiple-images-with-flutter-22dc1ff96671
+https://stackoverflow.com/questions/57799290/upload-multiple-images-to-api-using-multi-image-picker
+https://stackoverflow.com/questions/57864219/how-can-i-make-multiple-image-picker-which-upload-and-set-image-inside-container

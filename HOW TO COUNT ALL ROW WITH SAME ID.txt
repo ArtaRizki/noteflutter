@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/30932283/is-it-possible-to-count-all-rows-with-the-same-id-with-count
+https://stackoverflow.com/questions/38507137/sql-get-count-of-all-rows-that-have-the-same-id
+https://stackoverflow.com/questions/19802929/mysql-select-count-from-rows-with-same-id
+https://stackoverflow.com/questions/54817203/sql-count-rows-with-same-value-in-column-and-group-by-id
+https://stackoverflow.com/questions/29920751/counting-one-of-multiple-rows-with-same-value-for-same-id
+https://dba.stackexchange.com/questions/207342/count-records-with-same-id-but-different-column-value

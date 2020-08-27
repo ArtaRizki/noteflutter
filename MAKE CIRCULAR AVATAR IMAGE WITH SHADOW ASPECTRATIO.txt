@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/53513456/flutter-network-image-does-not-fit-in-circular-avatar

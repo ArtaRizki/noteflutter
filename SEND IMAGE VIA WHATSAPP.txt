@@ -1,0 +1,14 @@
+https://pub.dev/packages/flutter_share_me/example
+https://github.com/OpenFlutter/flutter_share_me
+https://github.com/MertcanDinler/Flutter-Advanced-Share/blob/master/example/lib/main.dart
+https://pub.dev/packages/social_share/example
+https://stackoverflow.com/questions/53419799/flutter-share-does-not-share-an-image
+https://pub.dev/packages/wc_flutter_share
+https://stackoverflow.com/questions/44181343/how-do-i-share-an-image-on-ios-and-android-using-flutter
+https://stackoverflow.com/questions/55892495/how-to-send-a-message-directly-from-my-flutter-app-to-whatsapp-using-urllauncher
+https://stackoverflow.com/questions/56590914/how-to-share-image-to-whatsapp-from-flutter-application
+https://pub.dev/packages/social_share/example
+
+https://pub.dev/packages/esys_flutter_share
+https://stackoverflow.com/questions/56590914/how-to-share-image-to-whatsapp-from-flutter-application
+https://github.com/MertcanDinler/Flutter-Advanced-Share

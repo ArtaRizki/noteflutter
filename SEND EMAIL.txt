@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/57903718/flutter-mailer-api-multiple-image-attachments
+https://stackoverflow.com/questions/60573294/how-to-send-directt-email-by-flutter-web
+https://pub.dev/packages/flutter_email_sender
+https://stackoverflow.com/questions/50622947/flutter-sending-form-data-to-email/54399258
+https://stackoverflow.com/questions/59509092/how-to-send-mail-without-opening-default-email-app-on-flutter
+https://stackoverflow.com/questions/63263301/flutter-sending-image-via-mailer
+https://medium.com/@achinthaisuru444/sending-emails-using-flutter-f588387280db

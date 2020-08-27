@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/55536637/how-to-build-signed-apk-from-android-studio-for-flutter
+https://flutter.dev/docs/deployment/android

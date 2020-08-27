@@ -1,0 +1,5 @@
+https://medium.com/aubergine-solutions/how-to-create-expansion-panel-list-in-flutter-2fba574366e8
+https://stackoverflow.com/questions/58329176/how-to-build-a-card-screen-with-expansion-panel-list-in-flutter
+https://api.flutter.dev/flutter/material/ExpansionPanelList-class.html
+
+https://medium.com/flutter-community/flutter-expansion-collapse-view-fde9c51ac438

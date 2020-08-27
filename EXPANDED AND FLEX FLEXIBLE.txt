@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/52645944/flutter-expanded-vs-flexible
+https://api.flutter.dev/flutter/widgets/Flex-class.html
+https://www.youtube.com/watch?v=CI7x0mAZiY0
+https://stackoverflow.com/questions/60380046/how-to-apply-flex-in-flutter
+
+
+https://www.google.com/search?sxsrf=ALeKk039KuV51uvVx0yvkjr3gNhnTDKfDg%3A1589774245339&source=hp&ei=pQfCXtHVEZavyAOC57rQDg&q=use+flex+flutter&btnK=Penelusuran+Google

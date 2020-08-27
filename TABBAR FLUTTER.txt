@@ -1,0 +1,6 @@
+https://flutter.dev/docs/cookbook/design/tabs
+https://medium.com/@sanjay15k/creating-a-complete-tabbar-in-flutter-4f7465803e84
+https://flutter.dev/docs/catalog/samples/TabBar
+https://medium.com/@aurimas.deimantas/dynamic-tabbar-and-tabbarview-in-flutter-7f364b266aef
+https://www.codepolitan.com/membuat-tab-bar-di-flutter
+https://stackoverflow.com/questions/45588300/can-i-use-a-tabbar-and-tabbarview-as-an-in-page-widget

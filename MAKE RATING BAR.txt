@@ -1,0 +1,8 @@
+https://flutter-examples.com/flutter-create-custom-star-rating-bar/
+https://flutterawesome.com/a-simple-ratingbar-for-flutter-which-also-include-a-rating-bar-indicator/
+https://ha.hn.web.id/2018/08/31/flutter-101-membuat-widget-rating-star/
+https://github.com/thangmam/smoothratingbar
+https://pub.dev/packages/flutter_rating_bar
+https://pub.dev/packages/smooth_star_rating
+https://stackoverflow.com/questions/46637566/how-to-create-rating-star-bar-properly
+https://medium.com/icnh/a-star-rating-widget-for-flutter-41560f82c8cb

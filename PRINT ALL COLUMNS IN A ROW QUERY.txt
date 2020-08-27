@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/17959879/echo-all-and-entire-mysql-query-rows-in-php-without-specifically-naming-each-col
+https://stackoverflow.com/questions/43036457/beginner-php-mysql-how-to-print-all-columns-from-a-row

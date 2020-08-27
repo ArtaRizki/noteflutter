@@ -1,0 +1,8 @@
+https://daengweb.id/mengenal-widget-flutter-8-membuat-carousel-slide-show-dengan-list-view-page-view
+https://medium.com/flutter/creating-a-carousel-with-flutter-adf9a756e949
+
+https://pub.dev/packages/carousel_slider
+http://www.coderzheaven.com/2019/04/22/carousel-in-flutter/
+https://fluttercentral.com/Articles/Post/1231/How_to_create_a_Carousel_in_Flutter
+https://www.byriza.com/flutter-34-membuat-carousel-slider
+https://medium.com/@hafidalim/membuat-image-slider-menggunakan-flutter-725270097465
